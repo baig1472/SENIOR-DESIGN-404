@@ -1,0 +1,37 @@
+Week 1- update
+
+Revieweing Capturing Mechanism Subsytem
+Worked with team and decided to use rectangular net rope instead of net launcher
+
+Week 2- update
+
+Worked on PCB design for ultrasonic sensors
+
+Week 3- Update
+
+Ordered PCB Prototype boards
+Start to look at circuit analysis to figure out how to wire Raspberry Pi points with PCB protoypes 
+
+
+Week 4- Update
+
+Soldered 4 sensors to Raspberry Pi sensors
+Looked into Google cloud based image processing, made google cloud account
+
+Week 5- Update 
+
+Integrating Raspberry Pi ultrasonic sensors with drone system
+
+Week 6- Update
+
+Google cloud based image processing with raspberry pi and it's camera did not quite work to our expectations.
+Followed the convention of image processing, using standard machine learning libraries and classifying them with python source codes. 
+
+Week 7- Update
+
+Image processing works for drones
+I can do real time detection from my computer camera or upload any video in the code for drone detection
+Test Validation Resultis: Drone detetction works for still images and moving drones
+
+Week 8 - Update
+
