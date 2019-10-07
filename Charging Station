@@ -1,0 +1,41 @@
+Week 1- update
+
+Revieweing AC to DC Converters
+Finding DC to DC converter works with my system
+
+Week 2- update
+
+Changing The Conductive charging method
+choosing A charging method using copper coils to allow power tranfer
+Ordering needed parts
+
+Week 3- Update
+
+Receiving parts
+Start to look at datasheets to figure out how to wire parts physically 
+
+
+Week 4- Update
+
+finding the charging circuit that will balance all cells of the battery
+Understanding the Charging Circuit for 3S battery
+
+Week 5- Update 
+
+the Transformer needed for Ac to Dc converter is not working 
+Troubleshoot the problem
+Reasearch and ordering another Tranformer as plan B
+
+Week 6- Update
+
+Getting the Right value from the converter
+Wiring parts together
+ordering another 3S battery as the first battery was not working properly
+
+Week 7- Update
+
+The charging Station is Working properly
+the output voltage i get was 5V 
+the output current i get was depending on the distance between the transmitter and receiver
+i chose the distance to be 20 mm as it transmit the maximum output current (2A) 
+The output current if the distance get further will decreased ( at 70mm i get 100 mA) 
