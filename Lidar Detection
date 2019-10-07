@@ -1,0 +1,28 @@
+Week 1
+
+tested the system to check if it detects distances (403 demo) 
+mounted another servo motor to allow better angle detection and mounted the sensor on these motors 
+--------------------------------------------------------------------------------------------------------------------------------
+Week 2
+
+Orded a wire slip ring to prevent wire twisting of the sensor while it moves, and a wifi shield to transmit data to other subsystems.
+cut and soldered the wires to prepare it for connecting to the PCB and to the Arduino. 
+-------------------------------------------------------------------------------------------------------------------------------
+Week 3
+
+got a PCB prototype from a team member and soldered the required circuit on it along with some pins to allow wire connection. 
+-------------------------------------------------------------------------------------------------------------------------------
+Week 4
+
+Worked the math to convert the distances measured by the Lidar sensor to GPS coordinates (latitude and longitude) 
+--------------------------------------------------------------------------------------------------------------------------------
+Week 5
+
+Finished bolting the entire system on a box that contains the Arduino and the PCB and wires inside. 
+started coding the formulas along with the changes required to make to the original code (code used to demo for 403) 
+--------------------------------------------------------------------------------------------------------------------------------
+Week 6
+
+were able to get a latitude and longitude after a lot of debugging. 
+--------------------------------------------------------------------------------------------------------------------------------
+Week 7
