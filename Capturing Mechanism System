@@ -43,7 +43,7 @@ Worked on object tracking for the autonmous drone to track multiple drone by ass
 
 Week 10 - Update 
 
-Worked on getting the distance output from the autonomous drone to the target drone using triangular similarity method with OpenCV and Python. 
+Worked on getting the distance output from the autonomous drone to the target drone using triangular similarity method with OpenCV and Python. This distance will be given to the flight controller so that it moves that anount of distance towards the target drone. 
 
 Week 11- Update
 
