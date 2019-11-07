@@ -35,3 +35,19 @@ Test Validation Resultis: Drone detetction works for still images and moving dro
 
 Week 8 - Update
 
+Integrated image processing on Raspberry Pi. Worked on increasing the FPS (Frames per second) of the camera on raspberry pi with the help of intel GPU called compute neural stick 2. 
+
+Week 9 - Update
+
+Worked on object tracking for the autonmous drone to track multiple drone by assigning multiple unique ID's. 
+
+Week 10 - Update 
+
+Worked on getting the distance output from the autonomous drone to the target drone using triangular similarity method with OpenCV and Python. 
+
+Week 11- Update
+
+Integration between Raspberry Pi and the Pixhawk Flight controller
+
+
+
