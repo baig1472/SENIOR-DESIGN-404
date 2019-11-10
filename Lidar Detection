@@ -26,3 +26,26 @@ Week 6
 were able to get a latitude and longitude after a lot of debugging. 
 --------------------------------------------------------------------------------------------------------------------------------
 Week 7
+
+changed the algorithm for getting a GPS location after meeting with Mutaz at the blitz. The algorithm is then validated. I had to make
+conversions betwwen UTM and Longitude and Latitude to apply the math. 
+---------------------------------------------------------------------------------------------------------------------------------
+week 8
+
+verified the minimum amount of movement the step motor can make and it turned out to be ~0.33 degrees and the error of distance readings at
+40 m is ~10-30 cm. this tells us that the arclength at 40 m is 23cm with means that the targeted drone should have more than 23cm 
+dimenssions
+---------------------------------------------------------------------------------------------------------------------------------
+week 9 
+
+tested detection in the field and workd on hooking the wifi sheild to communicate with the pi
+-----------------------------------------------------------------------------------------------------------------------------------
+week 10
+
+worked on converting UTM readings to latitude and longitude. also helped the drone teamate to rebuild the drone after crashing. 
+-----------------------------------------------------------------------------------------------------------------------------------
+week 11 
+
+system is fully integrated via putty and the pi is getting the GPS readings from the lidar detection system.
+------------------------------------------------------------------------------------------------------------------------------------
+week 12
