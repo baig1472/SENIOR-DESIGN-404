@@ -40,3 +40,25 @@ the output voltage i get was 5V
 the output current i get was depending on the distance between the transmitter and receiver
 i chose the distance to be 20 mm as it transmit the maximum output current (2A) 
 The output current if the distance get further will decreased ( at 70mm i get 100 mA) 
+
+Week 8- update
+
+I set up the wireless charging station
+Performing multiple tests
+Recording accepted test ( from ideal voltage 11.1V to max voltage 11.8V) 
+
+Week 9- update
+
+Further tests were performed
+validating results (from fully discharged to fully charged 90.2V to 11.8V) 
+
+week 10- update
+
+Installing the wireless charging coils on the Drone 
+Testing Again while it is installed on drone
+The charging Station validated!!- working Perfectly
+
+Week 11-12-13-14
+
+Working on Testing and validating of Drone Flight system
+Working on Integration between image processing and Pixawk flight controller
