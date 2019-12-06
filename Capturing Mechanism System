@@ -49,5 +49,29 @@ Week 11- Update
 
 Integration between Raspberry Pi and the Pixhawk Flight controller
 
+Week 12- Update
+
+1. Integration between Image processing and Ultrasonic Distance Sensor. If drone reaches a specific distance to the target drone, 
+,autonomous drone goes forward to trap the target drone under the net. 
+
+2. drone Flight Tests to see image processing during flight. 
+
+Week 13- Update
+
+Final Presentation
+
+Week 14- Update
+
+Flight Tests to improve accuracy of results and target drone precision
+
+Week 15- Update
+
+Final Demonstration
+
+Week 16- Update
+
+Final Report
+
+
 
 
